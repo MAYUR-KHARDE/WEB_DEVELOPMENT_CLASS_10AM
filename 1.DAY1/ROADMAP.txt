@@ -1,0 +1,33 @@
+# Roadmap
+
+ 
+
+
+
+1. Environment Setup
+    1. Hardware Requirements
+    2. Software Requirements
+    3. Code Editor
+    4. Git Setup
+
+2. Html5: In HTML5, you'll learn how to ***structure*** web pages effectively using various tags. These tags define the layout and content of a page, including headings, paragraphs, lists, images, and links. Understanding HTML5 tags enables you to create well-organized and accessible web pages.
+
+3. Css3: In CSS3, you'll explore the power of styling web pages by controlling their ***appearance***, ***layout***, and ***behavior***. CSS3 introduces advanced features like gradients, animations, and transitions, allowing you to create visually appealing and interactive designs. Understanding CSS3 empowers you to customize elements and enhance the overall user experience of websites.
+
+4. Implement Case Study
+
+5. Bootstrap 5: Bootstrap 5 is a popular front-end framework that simplifies web development. It provides pre-designed CSS and JavaScript components, ensuring responsive, mobile-first designs. With Bootstrap 5, you'll easily create visually appealing and consistent websites, making it an essential tool for building modern, responsive, and user-friendly web applications.
+
+6. Javascript: JavaScript is a versatile, high-level programming language used for adding interactivity, dynamic content, and functionality to web pages. It runs in web browsers, enabling client-side scripting, and can also be used on the server-side with Node.js. JavaScript is essential for creating interactive user experiences and building modern web applications.
+
+7. DOM: The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of HTM documents as a tree of objects, where each element becomes a node. Developers use DOM to manipulate and interact with web pages dynamically, making it possible to change content, styles, and behavior through scripting languages like JavaScript.
+
+8. Implement Case Study
+
+9. React: React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently manage the state of an application. React's virtual DOM enables fast and efficient updates, making it ideal for building interactive and responsive web applications with a declarative and component-based approach.
+
+10. Implement Project : We will implement the project given at the {https://github.com/aniruddhha/project-billing-counter-mgmt}
+
+
+
+
