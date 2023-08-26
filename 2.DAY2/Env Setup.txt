@@ -1,0 +1,23 @@
+# Environment Setup
+
+# 🎯 Hardware Requirement
+
+Here are some general hardware requirements that should be sufficient for learning and practicing the Web Development :
+
+1. ✅ Processor: A modern multi-core processor, such as an Intel Core i5 or AMD Ryzen 5, would be adequate for running the development environment smoothly.
+2. ✅ RAM: A minimum of 8GB RAM is recommended. However, having 16GB or more would provide better performance, especially when running multiple applications simultaneously.
+3. ✅ Storage: A solid-state drive (SSD) is preferable over a traditional hard disk drive (HDD) because it offers faster read/write speeds, resulting in improved performance when loading and saving files.
+4. ✅ Operating System: Development can be done on various operating systems. Choose the one you are most comfortable with, such as Windows, macOS, or Linux.
+5. ✅ Display: A standard monitor with a resolution of 1366x768 or higher would be sufficient for most development tasks. However, having a larger screen or multiple monitors can improve productivity by allowing you to have more code and documentation visible simultaneously.
+6. ✅ Internet Connection: A stable and reasonably fast internet connection is recommended, as you will need to download libraries, frameworks, and other dependencies during the development process.
+
+# 🎯 Software Requirement
+
+1. ✅ NodeJS: Node.js is a JavaScript runtime environment, and npm (Node Package Manager) is a package manager for Node.js libraries and modules. Install Node.js from the official website ([https://nodejs.org](https://nodejs.org/)), which will include npm with it. Choose the LTS (Long-Term Support) version for stability. Linux/Mac users can also use this [link](https://github.com/nvm-sh/nvm) for installing node
+2. ✅ VSCode: Choose a code editor that suits your preferences. Popular options include Visual Studio Code ([https://code.visualstudio.com](https://code.visualstudio.com/)). Visual Studio Code is widely used and has excellent support for the Web Development.
+3. ✅ Browser: You'll need a modern web browser to test and run your React/Web Application applications. Commonly used browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari.
+4. ✅ Git: Git is a version control system widely used for managing source code. Install Git from the official website ([https://git-scm.com](https://git-scm.com/)) and set it up on your machine. This will allow you to track changes in your codebase and collaborate with others.
+
+[VSCode](https://www.notion.so/VSCode-d1aab0b04d844da4baea5d8f455955c9?pvs=21)
+
+[Git](https://www.notion.so/Git-d31decbee48a48aa96095cd4354f3e2e?pvs=21)
