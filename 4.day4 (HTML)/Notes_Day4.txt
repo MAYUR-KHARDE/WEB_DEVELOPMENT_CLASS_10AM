@@ -1,0 +1,100 @@
+# HTML5
+
+HTML5, short for HyperText Markup Language 5, is the latest version of the HTML (HyperText Markup Language) standard used for structuring and presenting content on the World Wide Web. It is the core technology for building and designing websites and web applications. HTML5 was developed to enhance the capabilities of the web, enabling the creation of more dynamic, interactive, and multimedia-rich content.
+
+# 🎯 Why HTML ?
+
+![html-explanation-1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1374a89-75b2-4add-a219-4a7fa75af4d5/html-explanation-1.png)
+
+**User Request:** A user initiates a request by typing a URL or clicking on a link in their web browser. This request is sent to a web server.
+
+**Server Response:** The web server processes the user's request and generates a response. This response typically includes data, which could be an HTML page, among other things.
+
+**HTML Page Data:** The data in the server's response often includes an HTML page. HTML (HyperText Markup Language) is used to structure and present the content of the webpage. It defines headings, paragraphs, images, links, and other elements.
+
+# 🎯 Meaning of Each Word 📌
+
+let's break down each component of the term "HyperText Markup Language":
+
+**HyperText:** "Hypertext" refers to text that contains links or references to other pieces of text, often called "hyperlinks" or simply "links." These links allow users to navigate between different pieces of information by clicking on the highlighted or underlined text. Hypertext is a fundamental concept of the web, enabling users to move from one webpage to another or access different sections of the same webpage through interconnected links.
+
+**Markup:** "Markup" refers to the practice of adding special symbols or annotations to text to indicate its structure, formatting, or meaning. In the context of HTML, markup involves using specific tags (enclosed in angle brackets, "<" and ">") to define the purpose and structure of different elements within a document. These tags provide instructions to web browsers on how to display and render the content. For example, a markup tag might indicate that a certain piece of text is a heading, a paragraph, an image, or a link.
+
+**Language:** "Language" in this context refers to a system of symbols, rules, and conventions used for communication. HTML is a language used to define the structure and content of web documents. It uses a set of predefined tags and attributes to specify how text and other media should be displayed on a webpage.
+
+Putting it all together, "HyperText Markup Language" (HTML) is a standardized system of symbols (tags) and rules used to annotate and structure text in a way that allows for the creation of web documents with interconnected links and various types of content (such as headings, paragraphs, images, and links). This language is essential for building and presenting content on the World Wide Web, enabling the creation of dynamic, interactive, and visually appealing web pages and applications.
+
+# 🎯 What is HTML ?
+
+HTML stands for "HyperText Markup Language." It is a standardized markup language used to structure and present content on the World Wide Web. HTML documents are the building blocks of web pages and web applications. These documents consist of a series of elements, each represented by tags, that define the structure and content of a webpage.
+
+# 🎯 Basic Structure
+
+An HTML document has a specific structure, consisting of an opening <!DOCTYPE> declaration, an <html> element that contains a <head> and a <body>. Here's how it looks:
+
+```html
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title></title>
+    </head>
+
+    <body>
+      
+    </body>
+
+</html>
+```
+
+<aside>
+💡 🤔 **Why HTML is opened in browser ?**
+
+HTML documents are opened in web browsers because browsers are software applications designed to interpret and render HTML code into visual web pages that users can interact with. When you enter a URL or click on a link, your browser sends a request to a web server asking for the HTML document associated with that URL. The server responds by sending back the requested HTML code.
+
+</aside>
+
+## 👉 Important Concepts
+
+**Tags:** HTML uses tags to define elements. Tags are enclosed in angle brackets, and they come in pairs: an opening tag and a closing tag. The content between the opening and closing tags defines the element's content. For example, `<h1>` is an opening tag for a top-level heading, and `</h1>` is the closing tag.
+
+**Elements:** An HTML element consists of an opening tag, content, and a closing tag. The opening tag specifies the element's type, and the closing tag marks the end of that element.
+
+**Attributes:** Elements can have attributes that provide additional information about the element. Attributes are placed within the opening tag and are written as key-value pairs. For example, the `<img>` tag for images can have attributes like src (source) and alt (alternative text).
+
+**Nesting:** HTML elements can be nested within other elements. Proper nesting is crucial for maintaining the correct structure and hierarchy of a webpage.
+
+# 🎯 What is HTML5 ?
+
+HTML5 is the fifth iteration of the HyperText Markup Language (HTML), a fundamental standard employed to structure and exhibit content on the internet. It serves as the foundational technology for crafting and fashioning websites and web applications. HTML5's evolution was geared towards augmenting the potential of the web, facilitating the construction of content that is notably more dynamic, interactive, and replete with multimedia elements.
+
+<aside>
+💡 You can check official draft of specification [here](https://www.w3.org/TR/2011/WD-html5-20110405/).
+
+</aside>
+
+Some key features and improvements introduced in HTML5 include:
+
+**New Semantic Elements:** HTML5 introduced several new semantic elements, such as `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, and `<footer>`. These elements provide better structure and meaning to the content, making it easier for search engines, screen readers, and developers to understand the purpose of each section.
+
+Multimedia Support:
+
+Canvas:
+
+Form Enhancements:
+
+Web Storage:
+
+Geolocation:
+
+Web Workers:
+
+Responsive Design:
+
+[input types](https://www.notion.so/input-types-e135655b31b14cc59f6644fc0f30ac01?pvs=21)
+
+[Div](https://www.notion.so/Div-e81861f937ef4da8abc98ccd54939277?pvs=21)
+
+[Headers](https://www.notion.so/Headers-ec835d6bb3714cfca1da29faee20616b?pvs=21)
+
+[Lists](https://www.notion.so/Lists-f0655307348f4a07b3b4cbc334787ab9?pvs=21)
