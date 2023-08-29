@@ -1,0 +1,10 @@
+.square {
+  margin: 0%;
+  position: absolute;
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}

@@ -1,0 +1,10 @@
+p {
+  font-size: larger;
+}
+.texto-style {
+  border: 10px solid orange;
+  text-align: center;
+  color: blue;
+  letter-spacing: 0.05em;
+  word-spacing: 10px;
+}

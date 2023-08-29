@@ -1,0 +1,26 @@
+/*THE TAPORI CODER MAYUR KHARDE*/
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: lightgoldenrodyellow;
+}
+
+.half-one {
+  width: 50%;
+  height: 20%;
+  background-color: blue;
+}
+
+.half-two {
+  width: 50%;
+  height: 20%;
+  background-color: orange;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  border: 1px solid red;
+}
