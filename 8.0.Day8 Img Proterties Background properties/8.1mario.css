@@ -1,0 +1,49 @@
+body,
+html {
+  height: 100vh;
+  width: 100vw;
+  padding: 0px;
+  margin: 0px;
+}
+.card {
+  width: 200px;
+  background-color: blue;
+  border: 8px solid orange;
+  padding: 16px;
+}
+img {
+  margin-bottom: 19px;
+}
+img:hover {
+  transform: scale(1.2);
+  display: block;
+}
+.card-thumb {
+  /* max-height: 200px; */
+  background-color: lightgoldenrodyellow;
+  margin-left: 50px;
+}
+.class-title {
+  margin-left: 60px;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+  background-color: lightgreen;
+  display: inline;
+  /* display: block; */
+}
+p {
+  color: blue;
+  font-style: italic;
+}
+.card-thumb {
+  background-color: antiquewhite;
+  width: 100px;
+  border: 5px solid yellow;
+}
+.class-description {
+  background-color: lightsalmon;
+  text-align: center;
+  font-weight: bolder;
+}
