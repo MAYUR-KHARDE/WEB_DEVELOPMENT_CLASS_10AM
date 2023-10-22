@@ -1,0 +1,17 @@
+.redbox {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  color: yellow;
+  /* visibility: hidden; */
+  /* Visibility hidden , means it hides the element But occupies the space required for the element on the webpage */
+  display: none;
+  /* display: none ,  means it hides the element and doesnot occupy any space on the webpage*/
+}
+.greenbox {
+  height: 200px;
+  width: 200px;
+  visibility: visible;
+  background-color: green;
+  color: yellow;
+}

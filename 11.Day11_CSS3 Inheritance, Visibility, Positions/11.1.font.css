@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Myfont";
+  src: url("CAMPUS PERSONAL USE.ttf") format("truetype");
+}
+p {
+  font-family: "MyFont";
+  font-size: 3em;
+  color: red;
+}
