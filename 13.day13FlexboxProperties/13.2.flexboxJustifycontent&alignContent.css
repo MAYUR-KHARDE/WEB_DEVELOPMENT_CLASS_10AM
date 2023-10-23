@@ -1,0 +1,57 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+}
+main {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  border: 1px solid pink;
+  flex-wrap: wrap;
+
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  /* justify-content: first baseline; */
+  /* justify-content: end; */
+  /* justify-content: baseline; */
+  /* Remember justify justify content only works when we include flex-wrap property and also the content is occupy more that one line */
+  align-content: space-evenly;
+  /* align-content: space-around;
+  align-content: space-between;
+  align-content: flex-end; */
+}
+.box {
+  height: 100px;
+  width: 100px;
+}
+
+.violet {
+  background-color: violet;
+}
+.indigo {
+  background-color: indigo;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.red {
+  background-color: red;
+}
+.aqua {
+  background-color: aqua;
+}
+.yellow-green {
+  background-color: yellowgreen;
+}
